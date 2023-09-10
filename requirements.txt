@@ -1,5 +1,6 @@
 yfinance
 streamlit
+streamlit-option-menu
 pandas
 numpy
 plotly
